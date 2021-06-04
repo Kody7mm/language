@@ -1,0 +1,48 @@
+#queAnswer {
+  background-color: #8bc28bad;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  display: none;
+}
+
+.btn-group {
+  border: solid rgb(8, 6, 6); 
+  background-color: rgb(61, 10, 10);
+}
+
+.radio { 
+font-style: italic;
+border-style: dotted;
+padding-left: 20px;
+padding-top: 5px;
+}
+
+h2 {
+  font-size: 25px;
+  background-color: rgb(126, 126, 87);
+}
+
+h1.title {
+  background-color: rgb(127, 87, 165);
+  text-align: center;
+}
+
+#ruby {
+  display: none;
+  font-size: 25px;
+}
+
+#elixer {
+  display: none;
+  font-size: 25px;
+}
+
+#ruby {
+  display: none;
+  font-size: 25px;
+}
