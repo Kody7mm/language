@@ -7,3 +7,8 @@ $(document).ready(function() {
     const queFour = parseInt($("input:radio[name=queFour]:checked").val());
     const queFive = parseInt($("input:radio[name=queFive]:checked").val());
     const total = queOne + queTwo + queThree + queFour + queFive;
+
+    $("#ruby").hide();
+    $("#elixer").hide();
+    $("#rust").hide();
+    $(".results").hide();
