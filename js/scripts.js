@@ -12,3 +12,21 @@ $(document).ready(function() {
     $("#elixer").hide();
     $("#rust").hide();
     $(".results").hide();
+
+    if(total >= 5) {
+      $(".answer").fadeIn();
+      $("#ruby").prepend();
+      $("#ruby").fadeIn();
+    }else if(total <= 4 && total > 3) {
+      $(".answer").fadeIn();
+      $("#elixer").fadeIn();
+    }else if(total <= 2) {
+      $(".answer").fadeIn();
+      $("#rust").fadeIn();
+    }
+  });
+});
+
+$("form#reset").submit(function(event) {
+  location.reload();
+});
