@@ -13,8 +13,8 @@ This website was built to allow user to answer a series of questions and, depend
 
 ## Setup/Installation Requirement
 * [Portfolio](https://github.com/kody7mm/)
-* [Project Page](https://github.com/kody7mm/coding-lang)
-* Can be cloned from [repository](https://github.com/kody7mm/coding-lang.git)
+* [Project Page](https://github.com/kody7mm/language)
+* Can be cloned from [repository](https://github.com/kody7mm/language.git)
 
 ## Known Bugs
 * Design will be improved
