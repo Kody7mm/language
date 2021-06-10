@@ -17,7 +17,7 @@ $(document).ready(function() {
       $(".answer").fadeIn();
       $("#ruby").prepend();
       $("#ruby").fadeIn();
-    }else if(total <= 4 && total > 3) {
+    }else if(total <= 4 && total > 2) {
       $(".answer").fadeIn();
       $("#elixer").fadeIn();
     }else if(total <= 2) {
